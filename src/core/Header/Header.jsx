@@ -3,6 +3,7 @@ import { Link, useLocation } from "react-router-dom";
 import { FaChevronDown } from "react-icons/fa";
 import { GiHamburgerMenu } from "react-icons/gi";
 import NavItems from "./NavItems";
+import ijetp from "/assets/images/IJETP.png";
 
 
 const Header = () => {
@@ -95,12 +96,12 @@ const Header = () => {
         <div ref={menuRef} className="w-full fixed top-0 z-20 max-h-[102px] bg-[#CF3A2B]">
             <div className="mx-auto w-full xl:max-w-[1500px] md:max-w-[920px] flex items-center justify-between">
                 <div className="p-5">
-                    <Link to="/" className="text-white text-4xl poppins-bold">
+                    {/* <Link to="/" className="text-white text-4xl poppins-bold">
                         IJETP
-                    </Link>
-                     {/* <Link to="/">
-                                <img className="w-40 md:mx-0 mx-auto" src={ijcvmp} alt="logo" />
-                            </Link> */}
+                    </Link> */}
+                     <Link to="/">
+                                <img className="w-40 md:mx-0 mx-auto" src={ijetp} alt="logo" />
+                            </Link>
                 </div>
 
                 <div className="lg:flex hidden items-center">

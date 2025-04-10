@@ -13,9 +13,9 @@ const HelmetComponent = ({ title }) => {
       <meta property="og:title" content="International Journal of Educational Trends and Practices" />
       <meta property="og:description" content="The International Journal of Educational Trends and Practices (IJETP) is a peer-reviewed academic journal focused on innovative research, practices, and developments in the field of education. It publishes original research articles, reviews, and case studies to advance knowledge in teaching, learning, and educational policy." />
       <meta property="og:url" content="https://www.ijetp.com/" />
-      <meta property="og:image" content="https://www.ijetp.com/assets/images/oj.png" />
+      <meta property="og:image" content="https://www.ijetp.com/assets/images/IJETP.png" />
 
-      <link rel="icon" type="image/png" href="" />
+      <link rel="icon" type="image/png" href="https://www.ijetp.com/assets/images/Favicon.png" />
       {/* <link rel="icon" type="image/png" href="https://www.ijetp.com/assets/Fav Icon.png" /> */}
     </Helmet>
   );
