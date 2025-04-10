@@ -116,7 +116,7 @@ const NavItems = ({ ToggleMenu, MenuOpen, isActive, }) => {
           </ul>
         </div>
         <div className="text-center px-4 lg:px-0 mt-9">
-                <a href="" target="_blank" rel="noopener noreferrer">
+                <a href="https://www.ijetp.com/ijetp/index.php/ijetp/about/submissions" target="_blank" rel="noopener noreferrer">
                   <button className="bg-[#F1ECEC] text-[#CF3A2B] px-4 py-2 transition duration-300 poppins-bold" >
                     <div className='flex justify-between '>  Submit Manuscript
                       </div>

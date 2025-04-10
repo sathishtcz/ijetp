@@ -52,7 +52,7 @@ export default function Home({ firstRow, secondRow, thirdRow }) {
                     { } is a peer-reviewed, open-access academic journal committed to the advancement of knowledge in the field of education. It provides a dynamic platform for educators, researchers, scholars, and practitioners to explore, analyze, and share innovative educational practices, teaching methodologies, policy insights, and emerging trends across all levels of education—local, national, and global. IJETP encourages submissions that offer fresh perspectives on curriculum development, educational technology, inclusive education, classroom practices, leadership in education, and assessment strategies. The journal fosters interdisciplinary dialogue and welcomes original research articles, case studies, theoretical papers, reviews, and educational policy analyses that contribute to the understanding and improvement of teaching and learning environments.
                 </p>
                 <div className="text-start">
-                    <a href="" target="_blank" rel="noopener noreferrer">
+                    <a href="https://www.ijetp.com/ijetp/index.php/ijetp/about/submissions" target="_blank" rel="noopener noreferrer">
                         <button className="bg-[#CF3A2B] text-white px-4 py-3   cursor-pointer  ">
                             <div className="flex justify-between gap-2 ">
                                 {" "}

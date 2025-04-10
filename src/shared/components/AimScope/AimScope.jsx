@@ -46,7 +46,7 @@ export default function AimScope() {
                     { }  aims to advance the global understanding and application of innovative trends and effective practices in education by providing a platform for researchers, educators, policymakers, and practitioners to share high-quality, evidence-based research that bridges theory and practice. Its scope encompasses a wide range of topics, including technology integration (e.g., artificial intelligence and online learning), equity and inclusion strategies, sustainable educational practices, teacher development, and policy analysis, with a focus on fostering transformative approaches to teaching, learning, and systemic reform across diverse contexts.
                 </p>
                 <div className="text-start">
-                    <a href="" target="_blank" rel="noopener noreferrer">
+                    <a href="https://www.ijetp.com/ijetp/index.php/ijetp/about/submissions" target="_blank" rel="noopener noreferrer">
                         <button className="bg-[#CF3A2B] text-white px-4 py-3  cursor-pointer  ">
                             <div className="flex justify-between gap-2 ">
                                 {" "}
